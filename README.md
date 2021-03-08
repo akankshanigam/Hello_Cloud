@@ -1,3 +1,3 @@
 # Hello_Cloud
 My first repository on GitHub
-I love :Cloud: :Quora:, and :Music:.
+I love Cloud Computing, Quora, Music and tea.
